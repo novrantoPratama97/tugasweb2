@@ -4,7 +4,7 @@
 <title>Contact</title>
 </head>
 <body>
-<h1>Lutfi Septian (171011401149)</h1>
+<h1>Novranto Pratama Zai(171011401684)</h1>
 <a href="index.php"> Kembali ke Buku Tamu</a>
 <br>
 <h2>BUKU TAMU</h2>
